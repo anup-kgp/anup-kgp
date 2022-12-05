@@ -25,7 +25,7 @@
 <a href="https://codesandbox.com/anup-kgp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="anup-kgp" height="30" width="40" /></a>
 <a href="https://fb.com/martialartistanup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="martialartistanup" height="30" width="40" /></a>
 <a href="https://instagram.com/martialartistanup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martialartistanup" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anup das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anup das" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCkk7Qb_zaY3pdFAs3-xWNFQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anup das" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
