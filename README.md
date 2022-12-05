@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anup Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://github.com/Codex-Swapnil1/PortFolio/raw/main/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anup-kgp&label=Profile%20views&color=0e75b6&style=flat" alt="anup-kgp" /> </p>
 
