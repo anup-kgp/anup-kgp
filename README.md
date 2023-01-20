@@ -15,8 +15,7 @@
 
 - 👯 I’m looking to collaborate on *Amazon*
 
-- 👨‍💻 All of my projects are available at [https://sk377135.github.io/](https://sk377135.github.io/)
-
+- 👨‍💻 All of my projects are available at portfolio link
 - 📫 How to reach me *anupdaskgp4@gmail.com*
 
 - ⚡ Fun fact *I think I am funny*
