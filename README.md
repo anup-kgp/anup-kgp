@@ -1,45 +1,145 @@
-<h1 align="center">Hi 👋, I'm Anup Das</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<div align="center">
 
+# 👋 Hey, I'm Anup Das
 
-# 💫 About Me:
+### Frontend Developer • React Enthusiast • UI Lover • Professional Bug Creator 🐛
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Coffee+into+Code...;Fixing+1+Bug,+Creating+2+More...;React+Developer+%F0%9F%92%99;Building+Things+People+Actually+Use..." />
 
-<img align="right" alt="coder gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img src="https://komarev.com/ghpvc/?username=anup-kgp&label=Visitors&color=blueviolet&style=for-the-badge"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sk377135&label=Profile%20views&color=0e75b6&style=flat" alt="sk377135" /> </p>
-
-
-
-- 🔭 I’m currently working on *Flip kart*
-
-- 👯 I’m looking to collaborate on *Amazon*
-
-- 👨‍💻 All of my projects are available at portfolio link
-- 📫 How to reach me *anupdaskgp4@gmail.com*
-
-- ⚡ Fun fact *I think I am funny*
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Martialartistanup) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/martialartistanup/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/itsanup/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/MartialartAnup) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anup-kgp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anup-kgp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anup-kgp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anup-kgp&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/MartialartAnup)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anup-kgp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+
+```js
+const anup = {
+    location: "India 🇮🇳",
+    code: ["JavaScript", "HTML", "CSS", "React"],
+    currentlyLearning: ["Next.js", "React Native", "Node.js"],
+    hobbies: ["Coding", "Karate 🥋", "Travel", "Gaming 🎮"],
+    lifeGoal: "Build awesome products before AI replaces my Google searches 🤖",
+    funFact: "99% of my bugs disappear when someone starts watching."
+};
+```
+
+- 🔭 Currently building cool web apps
+- 🌱 Learning React Native & Backend
+- 💬 Ask me about React, JavaScript or CSS
+- 🤝 Open to collaborations
+- 📫 **Email:** **anupdaskgp4@gmail.com**
+- ⚡ Fun fact: My code works perfectly... until someone says **"Can I test it?"**
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,figma,photoshop,git,github,vscode,vercel,netlify,npm" />
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=anup-kgp&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=anup-kgp&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anup-kgp&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=anup-kgp&theme=algolia&no-frame=true&margin-w=10)
+
+</div>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/itsanup">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/martialartistanup">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/Martialartistanup">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="https://twitter.com/MartialartAnup">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
+
+---
+
+# ☕ Developer Survival Kit
+
+```text
+☕ Coffee        ████████████ 100%
+🎵 Music         ███████████░ 95%
+🐛 Bugs          ████████████ 100%
+😴 Sleep         ██░░░░░░░░░░ 15%
+💡 Ideas         ██████████░░ 90%
+💸 Money         █░░░░░░░░░░░ 8%
+```
+
+---
+
+## 😂 Daily Programmer Routine
+
+```
+Write Code ✅
+Run Code ✅
+Error ❌
+
+Google...
+Stack Overflow...
+ChatGPT...
+
+"It works!"
+
+❌ Never touch it again.
+```
+
+---
+
+# ✍ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+> **"First, solve the problem. Then, write the code."** – John Johnson
+
+If you like my projects,
+leave a ⭐ before your WiFi disconnects.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=120&section=footer"/>
+
+</div>
