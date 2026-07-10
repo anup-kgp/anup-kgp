@@ -10,136 +10,188 @@
 
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-```js
+```javascript
 const anup = {
+    role: "Frontend Developer",
     location: "India 🇮🇳",
-    code: ["JavaScript", "HTML", "CSS", "React"],
-    currentlyLearning: ["Next.js", "React Native", "Node.js"],
-    hobbies: ["Coding", "Karate 🥋", "Travel", "Gaming 🎮"],
-    lifeGoal: "Build awesome products before AI replaces my Google searches 🤖",
-    funFact: "99% of my bugs disappear when someone starts watching."
+    languages: ["JavaScript", "PHP", "SQL"],
+    frontend: ["HTML", "CSS", "React", "Next.js", "Tailwind CSS", "Bootstrap"],
+    backend: ["Node.js", "Express.js", "PHP"],
+    database: ["Firebase Firestore", "Firebase Realtime DB", "MySQL", "SQL"],
+    mobile: ["React Native", "Expo"],
+    cloud: ["Firebase", "Vercel", "Netlify", "Cloudflare"],
+    tools: ["Git", "GitHub", "VS Code", "Figma", "Photoshop", "Postman"],
+    currentlyLearning: ["TypeScript", "MongoDB", "Docker"],
+    status: "Probably fixing a bug I created 5 minutes ago."
 };
 ```
 
-- 🔭 Currently building cool web apps
-- 🌱 Learning React Native & Backend
-- 💬 Ask me about React, JavaScript or CSS
-- 🤝 Open to collaborations
-- 📫 **Email:** **anupdaskgp4@gmail.com**
-- ⚡ Fun fact: My code works perfectly... until someone says **"Can I test it?"**
+- 🚀 Building websites, dashboards, admin panels & mobile apps
+- 📱 Making React Native apps... and promising myself I'll finish them 😅
+- 🔥 Firebase is my comfort zone.
+- 🗄️ SQL when data matters, Firestore when life should be easier.
+- 🤖 Professional Claude user. (Don't tell ChatGPT.)
+- 🤝 Always happy to collaborate on interesting projects.
+- 💬 Ask me about React, Firebase, JavaScript or why CSS hates me.
+- ⚡ Fun fact: I don't abandon projects... I simply release them as **"Coming Soon."**
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,vite"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,figma,photoshop,git,github,vscode,vercel,netlify,npm" />
+### ⚙ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
+</p>
 
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb"/>
+</p>
+
+**Also Worked With**
+- Firebase Firestore
+- Firebase Realtime Database
+- Firebase Authentication
+- Firebase Storage
+- SQL
+- REST APIs
+
+---
+
+### 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react"/>
+</p>
+
+- React Native
+- Expo
+
+---
+
+### ☁️ Cloud & Hosting
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,cloudflare"/>
 </p>
 
 ---
 
-# 📈 GitHub Stats
+### 🛠 Tools
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=anup-kgp&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=anup-kgp&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anup-kgp&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=anup-kgp&theme=algolia&no-frame=true&margin-w=10)
-
-</div>
-
----
-
-# 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/itsanup">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/martialartistanup">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/Martialartistanup">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
-</a>
-
-<a href="https://twitter.com/MartialartAnup">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x"/>
-</a>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,postman,npm,bash"/>
 </p>
 
+Also use:
+
+- Chrome DevTools
+- Firebase Console
+- XAMPP
+- MySQL Workbench
+- Android Studio
+- Cursor
+- Claude
+- ChatGPT
+- GitHub Copilot
+
 ---
 
-# ☕ Developer Survival Kit
+## 💀 Developer Achievements
+
+🏆 Built apps that actually reached production.
+
+🏆 Built apps that are **99% complete**.
+
+🏆 Built apps that have been **"almost finished"** for months.
+
+🏆 Fixed bugs by changing absolutely nothing.
+
+🏆 Spent 6 hours debugging...
+
+...forgot to save the file.
+
+🏆 Professional at saying:
+> "I'll optimize it later."
+
+---
+
+## ☕ Current Status
 
 ```text
-☕ Coffee        ████████████ 100%
-🎵 Music         ███████████░ 95%
-🐛 Bugs          ████████████ 100%
-😴 Sleep         ██░░░░░░░░░░ 15%
-💡 Ideas         ██████████░░ 90%
-💸 Money         █░░░░░░░░░░░ 8%
+███████████████░░░  Coding
+
+█████████████████  Drinking Coffee
+
+█████████████████  Thinking about a new side project
+
+██████████░░░░░░░  Finishing existing projects
+
+█████████████████  Opening 47 browser tabs
+
+█████████████████  Using Claude
+
+█████████████████  Using ChatGPT
+
+░░░░░░░░░░░░░░░░░  Sleeping
 ```
 
 ---
 
-## 😂 Daily Programmer Routine
+## 😂 Developer Facts
 
-```
-Write Code ✅
-Run Code ✅
-Error ❌
+```text
+✓ I build apps.
 
-Google...
-Stack Overflow...
-ChatGPT...
+✓ I build websites.
 
-"It works!"
+✓ I build APIs.
 
-❌ Never touch it again.
+✓ I build admin panels.
+
+✓ I build mobile apps.
+
+✗ I don't always finish them.
+
+Because...
+
+A new idea appears. 🚀
 ```
 
 ---
 
-# ✍ Random Dev Quote
+## 🤝 Available For
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+✅ Frontend Development
 
----
+✅ React Projects
 
-<div align="center">
+✅ Next.js
 
-### ⭐ Thanks for visiting!
+✅ Firebase
 
-> **"First, solve the problem. Then, write the code."** – John Johnson
+✅ React Native
 
-If you like my projects,
-leave a ⭐ before your WiFi disconnects.
+✅ Admin Dashboards
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=120&section=footer"/>
+✅ Landing Pages
 
-</div>
+✅ Portfolio Websites
+
+✅ Business Websites
+
+✅ API Integration
+
+✅ UI/UX Improvements
+
+❌ Fixing Internet Explorer bugs.
