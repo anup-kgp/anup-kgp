@@ -14,7 +14,7 @@
   <a href="#-about-me">About</a> &nbsp;·&nbsp;
   <a href="#-currently-building">Building</a> &nbsp;·&nbsp;
   <a href="#-tech-stack">Stack</a> &nbsp;·&nbsp;
-  <a href="#-open-source-playground">Projects</a> &nbsp;·&nbsp;
+  <a href="#-projects">Projects</a> &nbsp;·&nbsp;
   <a href="#-github-stats">Stats</a> &nbsp;·&nbsp;
   <a href="#-lets-work-together">Work with me</a>
 </p>
@@ -119,6 +119,169 @@ const anup = {
 Chrome DevTools · Firebase Console · XAMPP · MySQL Workbench · Android Studio · Cursor · Claude · ChatGPT · GitHub Copilot · REST APIs · Firebase Auth
 
 </details>
+
+<br/>
+
+## 🚀 Projects
+
+<sub>A selection of what I've shipped — most of it is client work, so the code is private.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 <b>Byto Home</b>
+<sub><code>Mobile · Web · Admin</code> &nbsp;🔒 private</sub>
+
+10-minute grocery delivery in three parts — storefront, live-order Next.js admin, and a bare React Native app, all synced through Firestore.
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,firebase,tailwind&theme=dark" height="30" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ <b>Zunora</b>
+<sub><code>Mobile · Web · Admin</code> &nbsp;🔒 private</sub>
+
+E-commerce platform: Expo customer app + web, a Next.js admin for products, orders and coupons, WhatsApp checkout.
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,firebase,ts&theme=dark" height="30" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 <a href="https://khpa.vercel.app"><b>KHPA</b></a>
+<sub><code>Website</code> &nbsp;🌐 live</sub>
+
+Website for the Karnataka Healthcare Professional Association — membership, QR cards and support for healthcare workers.
+
+<img src="https://skillicons.dev/icons?i=react,vite,firebase,js&theme=dark" height="30" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 <b>HelpBridge</b>
+<sub><code>Mobile</code> &nbsp;🔒 private</sub>
+
+Hyperlocal help platform: request errands, medicine or groceries and get matched with verified local helpers, with chat.
+
+<img src="https://skillicons.dev/icons?i=react,ts,firebase,androidstudio&theme=dark" height="30" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 <b>Clip Crew</b>
+<sub><code>Web · Marketplace</code> &nbsp;🔒 private</sub>
+
+Two-sided marketplace where Instagram creators hire video editors and book cameramen with gear.
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,firebase&theme=dark" height="30" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🍔 <b>FreshKart</b>
+<sub><code>Mobile · Web · API</code> &nbsp;🔒 private</sub>
+
+Multi-platform food delivery starter: customer app, Next.js admin dashboard and an Express API.
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" height="30" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 <b>Northbound Esports</b>
+<sub><code>Web</code> &nbsp;🔒 private</sub>
+
+Esports organisation platform — team registration with rosters, rankings, tournaments and prize tracking.
+
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,firebase,ts&theme=dark" height="30" />
+
+</td>
+<td width="50%" valign="top">
+
+### ⏱️ <b>Ascending Pomodoro</b>
+<sub><code>Mobile</code> &nbsp;🔒 private</sub>
+
+Focus timer whose sessions grow through the day (5 → 10 → 15 min) so concentration ramps up naturally.
+
+<img src="https://skillicons.dev/icons?i=react,ts&theme=dark" height="30" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏃 <b>Running GPS</b>
+<sub><code>Mobile</code> &nbsp;🔒 private</sub>
+
+GPS activity tracker with live route polylines and map-art style visualisation of past runs.
+
+<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark" height="30" />
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 <b>GSM Result</b>
+<sub><code>Mobile</code> &nbsp;🔒 private</sub>
+
+Real-time city-wise results app powered by Firestore live updates.
+
+<img src="https://skillicons.dev/icons?i=react,firebase,js&theme=dark" height="30" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🥋 <b>Hiro Ki Shito-Ryu Karate</b>
+<sub><code>Website</code> &nbsp;🔒 private</sub>
+
+Fast, SEO-optimised website for a karate-do association with animations and structured data.
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,firebase&theme=dark" height="30" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🏕️ <b>Jungle Drift</b>
+<sub><code>Website</code> &nbsp;🔒 private</sub>
+
+Coorg camping adventure site with animated sections and a WhatsApp booking modal.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark" height="30" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 <b>Spriggle</b>
+<sub><code>Website</code> &nbsp;🔒 private</sub>
+
+Brand website for a Bangalore microgreens company — product showcase and smooth motion.
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" height="30" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ <b>Detective Board</b>
+<sub><code>Mobile</code> &nbsp;🔒 private</sub>
+
+Offline-first crime-board app for Android — see “Currently building” above.
+
+<img src="https://skillicons.dev/icons?i=react,ts,firebase,androidstudio&theme=dark" height="30" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
