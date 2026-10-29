@@ -125,10 +125,10 @@ Chrome DevTools · Firebase Console · XAMPP · MySQL Workbench · Android Studi
 ## 📂 Open-source playground
 
 <div align="center">
-<a href="https://github.com/anup-kgp/D-start"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anup-kgp&repo=D-start&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/anup-kgp/DSA-with-Java-2026"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anup-kgp&repo=DSA-with-Java-2026&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/anup-kgp/UNO"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anup-kgp&repo=UNO&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/anup-kgp/SQL-Practice-"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anup-kgp&repo=SQL-Practice-&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/anup-kgp/D-start"><img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anup-kgp&repo=D-start&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/anup-kgp/DSA-with-Java-2026"><img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anup-kgp&repo=DSA-with-Java-2026&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/anup-kgp/UNO"><img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anup-kgp&repo=UNO&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/anup-kgp/SQL-Practice-"><img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anup-kgp&repo=SQL-Practice-&theme=tokyonight&hide_border=true" /></a>
 </div>
 
 <sub>…and plenty more in private repos — client work, dashboards, apps that are "almost finished". 😉</sub>
@@ -138,12 +138,12 @@ Chrome DevTools · Firebase Console · XAMPP · MySQL Workbench · Android Studi
 ## 📊 GitHub stats
 
 <div align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=anup-kgp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anup-kgp&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" />
+<img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anup-kgp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anup-kgp&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" />
 <br/>
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=anup-kgp&theme=tokyonight&hide_border=true" />
+<img width="98%" src="https://streak-stats.demolab.com/?user=anup-kgp&theme=tokyonight&hide_border=true" />
 <br/>
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anup-kgp&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<img width="98%" src="https://ghchart.rshah.org/2c5364/anup-kgp" alt="Contribution calendar" />
 </div>
 
 <br/>
