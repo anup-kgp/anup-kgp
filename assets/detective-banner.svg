@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0c0f"/><stop offset="1" stop-color="#1c2028"/></linearGradient>
+ <radialGradient id="glow" cx="0.78" cy="0.5" r="0.6"><stop offset="0" stop-color="#ffb81c" stop-opacity="0.22"/><stop offset="1" stop-color="#ffb81c" stop-opacity="0"/></radialGradient>
+ <filter id="sh" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="2" dy="5" stdDeviation="5" flood-opacity="0.5"/></filter>
+</defs>
+<rect width="1280" height="380" fill="url(#bg)"/><rect width="1280" height="380" fill="url(#glow)"/>
+<g stroke="#d62828" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.9">
+ <path d="M760 70 Q 860 120 960 62"/><path d="M760 70 Q 770 190 830 262"/><path d="M960 62 Q 1010 150 1090 232"/><path d="M830 262 Q 960 300 1090 232"/>
+</g>
+<g filter="url(#sh)">
+ <g transform="rotate(-5 760 120)"><rect x="700" y="62" width="120" height="150" fill="#f7f3e8"/><rect x="712" y="82" width="96" height="96" fill="#8d8a85"/><text x="760" y="156" font-family="Georgia,serif" font-size="80" font-weight="900" text-anchor="middle" fill="#2a2724">?</text><text x="760" y="198" font-family="Courier,monospace" font-size="12" font-weight="700" text-anchor="middle" fill="#1d1b18">UNKNOWN</text><rect x="696" y="176" width="92" height="20" fill="#fff" fill-opacity="0.9" stroke="#d62828" stroke-width="2" transform="rotate(-8 740 186)"/><text x="742" y="190" font-family="Courier,monospace" font-size="10" font-weight="900" text-anchor="middle" fill="#d62828" transform="rotate(-8 740 186)">MAIN SUSPECT</text></g>
+ <g transform="rotate(4 960 120)"><rect x="900" y="40" width="130" height="110" fill="#e8e2cf"/><text x="912" y="68" font-family="Georgia,serif" font-size="15" font-weight="900" fill="#1b1b1b">HARBOUR</text><text x="912" y="86" font-family="Georgia,serif" font-size="15" font-weight="900" fill="#1b1b1b">THEFT</text><line x1="912" y1="94" x2="1018" y2="94" stroke="#222" stroke-width="1.5"/><g fill="#555"><rect x="912" y="104" width="100" height="4"/><rect x="912" y="114" width="90" height="4"/><rect x="912" y="124" width="98" height="4"/></g></g>
+ <g transform="rotate(-3 830 290)"><rect x="740" y="238" width="180" height="84" fill="#f1e7c8"/><text x="752" y="260" font-family="Courier,monospace" font-size="10" font-weight="800" letter-spacing="2" fill="#d62828">TRAIN</text><text x="752" y="288" font-family="Georgia,serif" font-size="18" font-weight="900" fill="#1d1b18">Mumbai</text><text x="846" y="288" font-family="Georgia,serif" font-size="18" fill="#d62828">➜</text><text x="868" y="288" font-family="Georgia,serif" font-size="18" font-weight="900" fill="#1d1b18">Pune</text><line x1="752" y1="298" x2="908" y2="298" stroke="#9b8e6a" stroke-dasharray="4 3"/><text x="752" y="313" font-family="Courier,monospace" font-size="9" fill="#555">TR-4402 · 23:15</text></g>
+ <g transform="rotate(5 1090 270)"><rect x="1040" y="206" width="130" height="120" fill="#f6dd5c"/><text x="1052" y="232" font-family="Courier,monospace" font-size="11" font-weight="900" letter-spacing="2" fill="#d62828">CLUE ?</text><text x="1052" y="256" font-family="Georgia,serif" font-size="14" font-weight="700" fill="#1d1b18">Muddy boots</text><text x="1052" y="276" font-family="Georgia,serif" font-size="14" font-weight="700" fill="#1d1b18">by the back</text><text x="1052" y="296" font-family="Georgia,serif" font-size="14" font-weight="700" fill="#1d1b18">door</text></g>
+</g>
+<g fill="#d62828" stroke="#000" stroke-opacity="0.35"><circle cx="760" cy="70" r="9"/><circle cx="960" cy="62" r="9"/><circle cx="830" cy="262" r="9"/><circle cx="1090" cy="232" r="9"/></g>
+<g fill="#fff" fill-opacity="0.65"><circle cx="757" cy="67" r="3"/><circle cx="957" cy="59" r="3"/><circle cx="827" cy="259" r="3"/><circle cx="1087" cy="229" r="3"/></g>
+<circle cx="150" cy="150" r="78" fill="#0e1013" stroke="#ffb81c" stroke-width="14"/>
+<path d="M115 135 Q150 90 188 135 L180 140 Q150 112 122 140 Z" fill="#f7f3e8"/><ellipse cx="150" cy="140" rx="48" ry="9" fill="#f7f3e8"/><path d="M105 205 Q120 160 150 160 Q180 160 195 205 Z" fill="#f7f3e8"/>
+<line x1="206" y1="206" x2="258" y2="258" stroke="#ffb81c" stroke-width="18" stroke-linecap="round"/>
+<text x="300" y="168" font-family="Georgia,'Times New Roman',serif" font-size="68" font-weight="900" letter-spacing="6" fill="#f3dfb8">DETECTIVE</text>
+<text x="300" y="238" font-family="Georgia,'Times New Roman',serif" font-size="68" font-weight="900" letter-spacing="6" fill="#ffb81c">BOARD</text>
+<text x="302" y="282" font-family="Courier,monospace" font-size="19" fill="#bfae8c" letter-spacing="1">Pin it. Connect it. Solve it.</text>
+<text x="302" y="312" font-family="Courier,monospace" font-size="14" fill="#7d7566">Offline-first investigation board · React Native + Firebase</text>
+</svg>
