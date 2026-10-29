@@ -152,16 +152,6 @@ E-commerce platform: Expo customer app + web, a Next.js admin for products, orde
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 <a href="https://khpa.vercel.app"><b>KHPA</b></a>
-<sub><code>Website</code> &nbsp;🌐 live</sub>
-
-Website for the Karnataka Healthcare Professional Association — membership, QR cards and support for healthcare workers.
-
-<img src="https://skillicons.dev/icons?i=react,vite,firebase,js&theme=dark" height="30" />
-
-</td>
-<td width="50%" valign="top">
-
 ### 🤝 <b>HelpBridge</b>
 <sub><code>Mobile</code> &nbsp;🔒 private</sub>
 
@@ -170,8 +160,6 @@ Hyperlocal help platform: request errands, medicine or groceries and get matched
 <img src="https://skillicons.dev/icons?i=react,ts,firebase,androidstudio&theme=dark" height="30" />
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎬 <b>Clip Crew</b>
@@ -182,6 +170,8 @@ Two-sided marketplace where Instagram creators hire video editors and book camer
 <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,firebase&theme=dark" height="30" />
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🍔 <b>FreshKart</b>
@@ -192,8 +182,6 @@ Multi-platform food delivery starter: customer app, Next.js admin dashboard and 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" height="30" />
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎮 <b>Northbound Esports</b>
@@ -204,6 +192,8 @@ Esports organisation platform — team registration with rosters, rankings, tour
 <img src="https://skillicons.dev/icons?i=nextjs,tailwind,firebase,ts&theme=dark" height="30" />
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ⏱️ <b>Ascending Pomodoro</b>
@@ -214,8 +204,6 @@ Focus timer whose sessions grow through the day (5 → 10 → 15 min) so concent
 <img src="https://skillicons.dev/icons?i=react,ts&theme=dark" height="30" />
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏃 <b>Running GPS</b>
@@ -224,16 +212,6 @@ Focus timer whose sessions grow through the day (5 → 10 → 15 min) so concent
 GPS activity tracker with live route polylines and map-art style visualisation of past runs.
 
 <img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark" height="30" />
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 <b>GSM Result</b>
-<sub><code>Mobile</code> &nbsp;🔒 private</sub>
-
-Real-time city-wise results app powered by Firestore live updates.
-
-<img src="https://skillicons.dev/icons?i=react,firebase,js&theme=dark" height="30" />
 
 </td>
 </tr>
